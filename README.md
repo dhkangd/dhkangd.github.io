@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<html lang="en">
 <head>
-<title>Changwoo Min - Changwoo Min</title>
+<title>Dong Hyun Kang - Dong Hyun Kang</title>
 <!-- Using the latest rendering mode for IE -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta charset="utf-8">
@@ -11,12 +11,12 @@
 
 <link rel="canonical" href="/">
 
-<meta name="author" content="Changwoo Min" />
+<meta name="author" content="Dong Hyun Kang" />
 <meta name="description" content="My research interests fall into the broad area of computer systems, including operating systems, storage systems, concurrency, distributed systems, and systems security. I am particularly interested in the cross-layer work of developing software solutions by leveraging emerging new hardware technologies. I lead the COSMOSS (COmputer Systems, Memory, and OS Security …" />
 
-<meta property="og:site_name" content="Changwoo Min" />
+<meta property="og:site_name" content="Dong Hyun Kang" />
 <meta property="og:type" content="article"/>
-<meta property="og:title" content="Changwoo Min"/>
+<meta property="og:title" content="Dong Hyun Kang"/>
 <meta property="og:url" content="/"/>
 <meta property="og:description" content="My research interests fall into the broad area of computer systems, including operating systems, storage systems, concurrency, distributed systems, and systems security. I am particularly interested in the cross-layer work of developing software solutions by leveraging emerging new hardware technologies. I lead the COSMOSS (COmputer Systems, Memory, and OS Security …" />
 
