@@ -27,11 +27,13 @@
 <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
 
 <link href="/theme/css/pygments/native.css" rel="stylesheet">
+<!--
 <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
 <link href="/assets/css/cosmoss.css?1593616795.634994" rel="stylesheet">
-
 <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
 title="Changwoo Min ATOM Feed"/>
+-->
+
 
 
 </head>
