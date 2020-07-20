@@ -68,129 +68,129 @@ title="Changwoo Min ATOM Feed"/>
 </p>
 
 <p>Office: Room 333,
-	<a href="https://www.google.com/maps/place/Durham+Hall,+Blacksburg,+VA+24060/"> Durham Hall </a>,
-	Blacksburg, VA 24060 <br>
-	Email: changwoo at vt dot edu, Phone: (540) 231-4580<br>
-	<a href="/assets/pdfs/cv.pdf">CV</a> |
-	<a href="https://scholar.google.com/citations?user=6VDjaN4AAAAJ">Google scholar</a> |
-	<a href="https://github.com/multics69">GitHub</a>
-	</p>
-	<p>
-	<a href="https://cosmoss-vt.github.io/">COSMOSS Lab</a> / <a href="https://ece.vt.edu/">ECE</a> / <a href="https://vt.edu/">VT</a> </p>
+<a href="https://www.google.com/maps/place/Durham+Hall,+Blacksburg,+VA+24060/"> Durham Hall </a>,
+Blacksburg, VA 24060 <br>
+Email: changwoo at vt dot edu, Phone: (540) 231-4580<br>
+<a href="/assets/pdfs/cv.pdf">CV</a> |
+<a href="https://scholar.google.com/citations?user=6VDjaN4AAAAJ">Google scholar</a> |
+<a href="https://github.com/multics69">GitHub</a>
+</p>
+<p>
+<a href="https://cosmoss-vt.github.io/">COSMOSS Lab</a> / <a href="https://ece.vt.edu/">ECE</a> / <a href="https://vt.edu/">VT</a> </p>
 
-	<p> </p>
-	</td>
-	</tr>
-	</tbody></table>
-	<br> <br> <br> <br>
-	</ul>
-	<ul class="nav navbar-nav navbar-right">
-	</ul>
+<p> </p>
+</td>
+</tr>
+</tbody></table>
+<br> <br> <br> <br>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+</ul>
+</div>
+</div><!-- End Introme -->
+
+<div class="navbar navbar-default" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a href="/" class="navbar-brand">
+Changwoo Min            </a>
 	</div>
-	</div><!-- End Introme -->
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav">
+<li><a href="/pages/research.html">
+Research
+</a></li>
+<li><a href="/pages/teaching.html">
+Teaching
+</a></li>
+<li><a href="/pages/awards.html">
+Awards
+</a></li>
+<li><a href="/pages/services.html">
+Services
+</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+</ul>
+</div>
+<!-- /.navbar-collapse -->
+</div>
+</div> <!-- /.navbar -->
 
-	<div class="navbar navbar-default" role="navigation">
-	<div class="container">
-	<div class="navbar-header">
-	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-	<span class="sr-only">Toggle navigation</span>
-	<span class="icon-bar"></span>
-	<span class="icon-bar"></span>
-	<span class="icon-bar"></span>
-	</button>
-	<a href="/" class="navbar-brand">
-	Changwoo Min            </a>
-	</div>
-	<div class="collapse navbar-collapse navbar-ex1-collapse">
-	<ul class="nav navbar-nav">
-	<li><a href="/pages/research.html">
-	Research
-	</a></li>
-	<li><a href="/pages/teaching.html">
-	Teaching
-	</a></li>
-	<li><a href="/pages/awards.html">
-	Awards
-	</a></li>
-	<li><a href="/pages/services.html">
-	Services
-	</a></li>
-	</ul>
-	<ul class="nav navbar-nav navbar-right">
-	</ul>
-	</div>
-	<!-- /.navbar-collapse -->
-	</div>
-	</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
 
-	<!-- Banner -->
-	<!-- End Banner -->
+<!-- Content Container -->
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<section id="content" class="body">
+<!-- <h1 class="entry-title">Changwoo Min</h1> -->
 
-	<!-- Content Container -->
-	<div class="container">
-	<div class="row">
-	<div class="col-lg-12">
-	<section id="content" class="body">
-	<!-- <h1 class="entry-title">Changwoo Min</h1> -->
+<div class="entry-content">
+<!-- research area -->
 
-	<div class="entry-content">
-	<!-- research area -->
+<p>My research interests fall into the broad area of computer systems,
+including operating systems, storage systems, concurrency, distributed
+systems, and systems security. I am particularly interested in the
+cross-layer work of developing software solutions by leveraging
+emerging new hardware technologies.</p>
+<!-- intro lab -->
 
-	<p>My research interests fall into the broad area of computer systems,
-	including operating systems, storage systems, concurrency, distributed
-	systems, and systems security. I am particularly interested in the
-	cross-layer work of developing software solutions by leveraging
-	emerging new hardware technologies.</p>
-	<!-- intro lab -->
+<p><strong>I lead the <a href="https://cosmoss-vt.github.io/">COSMOSS (COmputer Systems, Memory, and OS Security)
+Lab</a> at Virginia Tech.</strong></p>
+<!-- background -->
 
-	<p><strong>I lead the <a href="https://cosmoss-vt.github.io/">COSMOSS (COmputer Systems, Memory, and OS Security)
-	Lab</a> at Virginia Tech.</strong></p>
-	<!-- background -->
+<p>Before joining Virginia Tech in August 2017, I was a research
+scientist at Georgia Tech working with <a href="https://taesoo.kim/">Prof. Taesoo
+Kim</a>. In February 2014, I completed my Ph.D at
+<a href="https://www.skku.edu/eng/">Sungkyunkwan University</a>, under the
+guidance and support of <a href="http://dclab.skku.ac.kr/xe/index.php?mid=DCLab_Prof">Prof. Young Ik
+Eom</a>. For storage
+systems, I have closely collaborated with <a href="http://prof.icc.skku.ac.kr/~swlee/">Prof. Sang-Won
+Lee</a>. Before starting my Ph.D., I
+developed various software products including Linux-based mobile
+platform (<a href="https://en.wikipedia.org/wiki/Tizen">Tizen</a>), Java virtual
+machine (<a href="https://en.wikipedia.org/wiki/IBM_J9">J9</a>), and desktop
+operating system (<a href="https://en.wikipedia.org/wiki/OS/2">OS/2</a>) in
+Samsung Electronics and IBM.</p>
+<!-- hiring  -->
 
-	<p>Before joining Virginia Tech in August 2017, I was a research
-	scientist at Georgia Tech working with <a href="https://taesoo.kim/">Prof. Taesoo
-	Kim</a>. In February 2014, I completed my Ph.D at
-	<a href="https://www.skku.edu/eng/">Sungkyunkwan University</a>, under the
-	guidance and support of <a href="http://dclab.skku.ac.kr/xe/index.php?mid=DCLab_Prof">Prof. Young Ik
-	Eom</a>. For storage
-	systems, I have closely collaborated with <a href="http://prof.icc.skku.ac.kr/~swlee/">Prof. Sang-Won
-	Lee</a>. Before starting my Ph.D., I
-	developed various software products including Linux-based mobile
-	platform (<a href="https://en.wikipedia.org/wiki/Tizen">Tizen</a>), Java virtual
-	machine (<a href="https://en.wikipedia.org/wiki/IBM_J9">J9</a>), and desktop
-	operating system (<a href="https://en.wikipedia.org/wiki/OS/2">OS/2</a>) in
-	Samsung Electronics and IBM.</p>
-	<!-- hiring  -->
+<p><strong>I am always looking for talented Ph.D. students, postdocs, and
+visiting scholars. If you are enthusiastic to computer systems or
+system security research, please contact me with your CV.</strong></p>
+</div>
+</section>
+</div>
+</div>
+</div>
+<!-- End Content Container -->
 
-	<p><strong>I am always looking for talented Ph.D. students, postdocs, and
-	visiting scholars. If you are enthusiastic to computer systems or
-	system security research, please contact me with your CV.</strong></p>
-	</div>
-	</section>
-	</div>
-	</div>
-	</div>
-	<!-- End Content Container -->
+<footer>
+<div class="container">
+<hr>
+<div class="row">
+<div class="col-xs-10">&copy;  Changwoo Min         </div>
+<div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+</div>
+</div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
 
-	<footer>
-	<div class="container">
-	<hr>
-	<div class="row">
-	<div class="col-xs-10">&copy;  Changwoo Min         </div>
-	<div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
-	</div>
-	</div>
-	</footer>
-	<script src="/theme/js/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
 
-	<!-- Include all compiled plugins (below), or include individual files as needed -->
-	<script src="/theme/js/bootstrap.min.js"></script>
-
-	<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-	<script src="/theme/js/respond.min.js"></script>
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
 
 
 
 
-	</body>
-	</html>
+</body>
+</html>
