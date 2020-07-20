@@ -33,10 +33,8 @@
 <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
 title="Changwoo Min ATOM Feed"/>
 -->
-
-
-
 </head>
+
 <body>
 
 <!-- Introme -->
