@@ -1,0 +1,37 @@
+a {
+	color: gray;
+}
+
+a:hover {
+	color: white;
+}
+
+.label {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 80%;
+	font-weight: bold;
+	line-height: 1;
+	color: #fff;
+	text-align: center;
+	white-space: nowrap;
+	border-radius: .25em;
+	padding: 5px 3px 2px;
+}
+
+.label2 {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 80%;
+	font-weight: bold;
+	line-height: 1;
+	color: #000;
+	text-align: center;
+	white-space: nowrap;
+	border-radius: .25em;
+	padding: 5px 3px 2px;
+}
+
+.label-jour { background-color: #EA6FD5; }
+.label-conf { background-color: #0A82FF; }
+.label-post { background-color: #47FF9C; }
