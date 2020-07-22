@@ -6,6 +6,11 @@ a:hover {
 	color: black;
 }
 
+i:hover {
+	color: black;
+}
+
+
 .label {
 	display: inline-block;
 	vertical-align: middle;
