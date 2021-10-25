@@ -1,3 +1,12 @@
 #ignore file type
 
 *.swp
+/**/*.swp
+/**/**/*.swp
+/**/**/**/*.swp
+
+
+.DS_Store
+/**/*.DS_Store
+/**/**/*.DS_Store
+/**/**/**/*.DS_Store
